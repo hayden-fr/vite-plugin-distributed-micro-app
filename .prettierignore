@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# production
+dist
+lib
+es
+
+# fixtures
+**/fixtures/**
+
+# misc
+package.json
+tsconfig.json
